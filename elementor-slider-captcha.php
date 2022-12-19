@@ -1,7 +1,7 @@
 <?php
 /**
 * Plugin Name: Slider CAPTCHA for Elementor
-* Description: This plugin adds the slider field type CAPTCHA to Elementor Pro form widget
+* Description: This plugin adds a new field type CAPTCHA slider to the Elementor Pro form widget
 * Plugin URI: https://github.com/webdevs-pro/elementor-slider-captcha
 * Version: 0.0.1
 * Author: Alex Ishchenko
